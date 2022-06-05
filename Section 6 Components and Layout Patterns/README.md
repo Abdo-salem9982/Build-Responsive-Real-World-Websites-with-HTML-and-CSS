@@ -3,3 +3,5 @@
 # 02-Carousel Live Page => [Link](https://carousel-component99.netlify.app/)
 
 # 03-Simple Table Live Page => [Link](https://simple-table99.netlify.app/)
+
+# 04-Pagination Live Page => [Link](https://section-six-challenge-one.netlify.app/)
