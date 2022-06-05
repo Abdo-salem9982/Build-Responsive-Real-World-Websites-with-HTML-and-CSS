@@ -5,3 +5,5 @@
 # 03-Simple Table Live Page => [Link](https://simple-table99.netlify.app/)
 
 # 04-Pagination Live Page => [Link](https://section-six-challenge-one.netlify.app/)
+
+# 05-Hero Section Live Page => [Link](https://omifood-hero-section.netlify.app/)
